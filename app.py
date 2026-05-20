@@ -15,7 +15,7 @@ st.set_page_config(layout="wide")
 # Tabs
 # ==================================================
 tab_corr, tab_stress, tab_exposure, tab_legenda = st.tabs(
-    ["Correlation", "Stress Test", "Exposure", "Legend"]
+    ["Volatility", "Delta Volatility", "Correlation MST", "Returns"]
 )
 
 # ==================================================
