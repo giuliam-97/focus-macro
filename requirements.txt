@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+numpy
+networkx
+XlsxWriter
+openpyxl
+streamlit-plotly-events
